@@ -1,0 +1,17 @@
+#container1{
+    border: 2px solid black;
+}
+#container1 : form{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#container2{
+    border: 2px solid black;
+}
+.row , .mess {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

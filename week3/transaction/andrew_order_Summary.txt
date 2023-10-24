@@ -1,0 +1,10 @@
+Order Summary
+-----------------
+Receiptient's Name: andrew
+Medicine: saridon
+MG: 500mg
+Quantity: 5
+Price per Piece: ₱15.00
+Total Price: ₱75.00
+
+Thank You
