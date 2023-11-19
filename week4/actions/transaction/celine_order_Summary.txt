@@ -1,0 +1,10 @@
+Order Summary
+-----------------
+Receiptient's Name: celine
+Medicine: biogesic
+MG: 250mg
+Quantity: 5
+Price per Piece: ₱9.75
+Total Price: ₱48.75
+
+Thank You

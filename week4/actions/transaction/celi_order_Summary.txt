@@ -1,0 +1,10 @@
+Order Summary
+-----------------
+Receiptient's Name: celi
+Medicine: biogesic
+MG: 500mg
+Quantity: 10
+Price per Piece: ₱13.00
+Total Price: ₱130.00
+
+Thank You
