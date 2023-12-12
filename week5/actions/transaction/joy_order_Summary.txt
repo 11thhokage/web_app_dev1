@@ -1,0 +1,10 @@
+Order Summary
+-----------------
+Receiptient's Name: joy
+Medicine: biogesic
+MG: 500mg
+Quantity: 2
+Price per Piece: ₱13.00
+Total Price: ₱26.00
+
+Thank You
